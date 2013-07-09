@@ -1,0 +1,5 @@
+*.pyc
+venv
+
+# Left out so I don't get in trouble ;-)
+hnbot.py
