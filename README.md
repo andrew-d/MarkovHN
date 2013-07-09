@@ -2,7 +2,7 @@
 
 Inspired by [this tweet](https://twitter.com/tqbf/status/354653565169569792), I created a simple Markov generator and a scraper for a user's HN comments.  Deliberately left out so I don't get yelled at: the bot that posts these comments to HN.
 
-Comment data from tptacek is included :-)
+Comment data from tptacek and patio11 are included :-)
 
 # Usage
 
